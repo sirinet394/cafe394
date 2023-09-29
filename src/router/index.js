@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import mainpage from '../views/mainpage.vue'
+import mainpage from '../views/MainPage.vue'
 import Newcard from '../components/NewCard.vue'
 
 import newshop_1 from '../components/newshop_1.vue';
