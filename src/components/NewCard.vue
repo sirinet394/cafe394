@@ -54,7 +54,7 @@
         text_box:' ร้านไป-ยานใหญ่ อาหารอร่อย สะอาด ถูก ดนตรีไพเราะ บอลจอใหญ่ สังสรรค์ราคาประหยัด⚽⚽'
         },
     
-      {name:'East Bar',    price:1699, img:"https://cdn.discordapp.com/attachments/1153766321666932836/1153887347868442642/5.png", quantity: 0 ,
+      {name:'East Bar',    price:1699, img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxGhm5_2QFPl3ik7MxvrYTqxpyQ829rV6fw&usqp=CAU", quantity: 0 ,
         text_box:' Too Nice Nimman Enjoy our special drinks, good foods, good vibesand everyday live band at Too Nice'
         },
     

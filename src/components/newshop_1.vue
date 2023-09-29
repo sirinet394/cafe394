@@ -22,7 +22,7 @@ import { ref } from 'vue';
 
 const travelList=ref([
    {name: 'สุนทรารมณ์',  price:500, img:"https://media.discordapp.net/attachments/1153766321666932836/1153887346882773063/1.jpg?width=701&height=701", quantity: 0 ,
-    text_box:' Let enjoy Food&Drink สุนทรารมณ์ ยินดีให้บริการ'
+    text_box:'สัมผัสความเป็นมหานครของรสชาติ'
     }])
 
 

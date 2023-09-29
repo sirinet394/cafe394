@@ -21,8 +21,8 @@
 import { ref } from 'vue';
 
 const travelList=ref([
-    {name:'Yoh',     price:1599, img:"https://cdn.discordapp.com/attachments/1153766321666932836/1153887347616776263/4.jpg", quantity: 0 ,
-    text_box:' ร้านไป-ยานใหญ่ อาหารอร่อย สะอาด ถูก ดนตรีไพเราะ บอลจอใหญ่ สังสรรค์ราคาประหยัด⚽⚽'
+    {name:'Yoh',     price:1599, img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6wXFQGOMI8Qj69sfRTrxoJDDusj9-yGt6Q&usqp=CAU", quantity: 0 ,
+    text_box:'รสชาติที่อยู่ในระดับพรีเมียม ลดลงในแต่ละทั้งช็อต'
     },])
 
 

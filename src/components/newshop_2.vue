@@ -21,8 +21,8 @@
 import { ref } from 'vue';
 
 const travelList=ref([
-    {name:'86s room',  price:750, img:"https://media.discordapp.net/attachments/1153766321666932836/1153887347121856652/2.jpg?width=701&height=701", quantity: 0 ,
-    text_box:' Overnight Bar Maejo โอเวอร์ไนท์บาร์แม่โจ ร้านย่านแม่โจ้ เชียงใหม่ มาดื่มด่ำบรรยากาศแสนชิว พร้อมเครื่องดื่ม และอาหารราคาสบายกระเป๋า มีดนตรีสดและดีเจทุกวัน'
+    {name:'86s room',  price:750, img:"https://www.thai2night.com/upload/shop/photo/_temp/shop_shop_photo_7662_1617199748.jpg", quantity: 0 ,
+    text_box:'เม็ดเล็กของความสุข, ในห้องนี้ทุกสิ่งเป็นเรื่องใหญ่'
     }])
 
 </script>

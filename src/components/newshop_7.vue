@@ -22,7 +22,7 @@ import { ref } from 'vue';
 
 const travelList=ref([
     {name:'Beer lab', price:675, img:"https://cdn.discordapp.com/attachments/1153766321666932836/1153887348321419314/7.jpg", quantity: 0 ,
-    text_box:' We have over 250 beers from around the world and 18 beers on tap. The largest selection in Northern T'
+    text_box:'ที่นี่เราไม่แค่ดื่มเบียร์ แต่เราสร้างเบียร์'
     },])
 
 

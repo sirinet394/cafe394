@@ -22,7 +22,7 @@ import { ref } from 'vue';
 
 const travelList=ref([
     {name:'Warm up',     price:1250, img:"https://cdn.discordapp.com/attachments/1153766321666932836/1153887346635317259/8.jpg", quantity: 0 ,
-    text_box:' บาร์และสถานบันเทิงแห่งนี้มีพื้นที่หลากหลายสไตล์ให้ได้เพลิดเพลินกับดีเจที่เปิดเพลง EDM และดนตรีสด'
+    text_box:'จุดเริ่มต้นของความอบอุ่นและความสนุกสนาน'
     },])
 
 
